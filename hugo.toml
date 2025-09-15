@@ -3,7 +3,7 @@ defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 enableInlineShortcodes = true
 removePathAccents = true
-title = '1Roue2Mains'
+title = 'ATELIER ROULADES'
 theme = 'pego'
 
 [markup.goldmark.renderer]
@@ -20,9 +20,9 @@ unsafe = true
     languageCode = "fr"
     languageName = "Français"
     weight = 1
-    title = "1Roue2Mains"
+    title = "ATELIER ROULADES"
   [languages.en]
     languageCode = "en"
     languageName = "English"
     weight = 2
-    title = "1Roue2Mains"
+    title = "ATELIER ROULADES"
