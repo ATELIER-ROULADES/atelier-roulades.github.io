@@ -1,5 +1,5 @@
 ---
-title: Bois local et créations originales
+title: Ebénisterie, Menuiserie d'Art en bois massif
 description: >
   ## Menuisier ébéniste créateur
   
