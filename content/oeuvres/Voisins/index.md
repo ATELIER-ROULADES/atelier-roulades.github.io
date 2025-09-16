@@ -21,7 +21,7 @@ Frêne, noyer, chêne, orme ou mélèze, la sélection et l’association d’es
 Nous contacter : **voisinsdetablis@gmail.com**
 
 ***Nos créations :*** 
-**[MIJO](https://1roue2mains.github.io/oeuvres/miroir/)**, le miroir.
-**[AQUI](https://1roue2mains.github.io/oeuvres/plateau/)**, le plateau.
-**[LUPIA](https://1roue2mains.github.io/oeuvres/lampe/)**, la lampe.
-**[NOMADE](https://1roue2mains.github.io/oeuvres/planches/)**, la planche.
+**[MIJO](/oeuvres/miroir/)**, le miroir.
+**[AQUI](/oeuvres/plateau/)**, le plateau.
+**[LUPIA](/oeuvres/lampe/)**, la lampe.
+**[NOMADE](/oeuvres/planches/)**, la planche.
