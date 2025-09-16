@@ -7,7 +7,7 @@ description: |-
     <br/> ***Dim. 9,5 x 20 x 30cm***
 ---
 
-**Collection Art de la Table / 2025 • [Les Voisins d’établis](https://1roue2mains.github.io/oeuvres/voisins/)** avec Charlotte, Ebéniste designer.
+**Collection Art de la Table / 2025 • [Les Voisins d’établis](/oeuvres/voisins/)** avec Charlotte, Ebéniste designer.
 
 <br>Les lampes **LUPIA** sont livrées avec l'étiquetage CE ; elles sont conçues et réalisées conformément à la réglementation européenne.
 
