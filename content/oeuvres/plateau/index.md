@@ -6,7 +6,7 @@ description: |-
   **Essences : Chêne - Noyer**
 ---
 
-**Collection Art de la Table / 2025 • [Les Voisins d’établis](https://1roue2mains.github.io/oeuvres/voisins/)** avec Charlotte, Ebéniste designer.
+**Collection Art de la Table / 2025 • [Les Voisins d’établis](/oeuvres/voisins/)** avec Charlotte, Ebéniste designer.
 
 Les plateaux de service et présentation **AQUI** sont uniques, réalisées entièrement en bois massif.
 Un fond en chêne ou châtaignier et une alaise arrondie en noyer.
