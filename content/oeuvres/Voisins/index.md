@@ -25,3 +25,12 @@ Nous contacter : **voisinsdetablis@gmail.com**
 **[AQUI](/oeuvres/plateau/)**, le plateau.
 **[LUPIA](/oeuvres/lampe/)**, la lampe.
 **[NOMADE](/oeuvres/planches/)**, la planche.
+
+ </div>
+ <div class="column has-text-centered">
+  {%- include_cached bulma/button.html
+  text="Télécharger notre portfolio"
+          href="assets/Portfolio 2025_VoisinsdEtablis_cp.pdf"
+          class='is-color0'
+          newtab= true -%}
+  </div>
