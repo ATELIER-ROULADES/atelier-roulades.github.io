@@ -26,4 +26,4 @@ Nous contacter : **voisinsdetablis@gmail.com**
 **[LUPIA](/oeuvres/lampe/)**, la lampe.
 **[NOMADE](/oeuvres/planches/)**, la planche.
 
-**[Télécharger notre portfolio](assets/Portfolio 2025_VoisinsdEtablis_cp.pdf)**
+**[Télécharger notre portfolio](assets/Portfolio_2025_VoisinsdEtablis_cp.pdf)**
