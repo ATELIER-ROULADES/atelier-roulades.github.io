@@ -26,4 +26,4 @@ Nous contacter : **voisinsdetablis@gmail.com**
 **[LUPIA](/oeuvres/lampe/)**, la lampe.
 **[NOMADE](/oeuvres/planches/)**, la planche.
 
-**[Télécharger notre portfolio](https://github.com/ATELIER-ROULADES/atelier-roulades.github.io/tree/master/assets/Portfolio 2025_VoisinsdEtablis_cp.pdf)**
+**[Télécharger notre portfolio](assets/Portfolio 2025_VoisinsdEtablis_cp.pdf)**
