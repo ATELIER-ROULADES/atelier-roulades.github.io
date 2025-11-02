@@ -12,7 +12,7 @@ The drive is provided by a key or square axle system in the hub (your choice); t
 A unique piece of cabinetry that rolls. 
 No tyres. No fuss. See it in action [HERE](https://youtu.be/1y1LefkMADA).
 
-***Price: from £3,925 including VAT.***
+***Price: from €3,925 including VAT.***
 
 **[WOULD YOU WANT TO DISCUSS ABOUT IT?](https://f1fd647b.sibforms.com/serve/MUIFAHh-JKF92JHrrFXiOi-hD1cLmVmwc_jNGwRLetSc-supZVs4lCk4Hfb-IGm3pZlRWMKMq-sQIGhSjEVOcVFO8a55ilFBMwbiaEsjD4fJOlg5s9k1x0EpoEvvHhOrmjz6DypqNnWL-4FA1gTe62pj5xnfQfz2zwuwF2oQlEf1MsDzptOvvEjp4HEaZ9x8cP_JXvq-aYthfmmR)**
 
