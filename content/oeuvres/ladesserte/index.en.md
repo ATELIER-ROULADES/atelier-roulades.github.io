@@ -1,19 +1,21 @@
 ---
-title: THE VAGABOND
+title: JOBI. THE MOBILE OFFICE
 weight: 3
 essence: robinier,frene,noyer,orme
 description: |-
   **Essences : Black locust, Ash, Walnut, Elm**
 ---
 
-In this age of mobile working, **THE VAGABOND** is the ideal traveling companion.
-<br/> A true *mobile office* for everyday use, without nails or screws. 
-It can also serve as a *side table* for hotels and restaurants looking for unique furniture.
+Mobile. Table or desk. 
+JOBI furniture allows you to choose your working environment: light, snowflakes through the window or shelter in the shade on hot, exposed days; 
+proximity to the stove or radiator during winter. Jobi adapts to your comfort at any given moment. 
+From traditional wheels to a contemporary design, choose the type of wheels and wood for your table. 
+With or without drawers.
 
-> I create solid wood serving trolleys, entirely handmade in France, in the pure tradition of craftsmanship.
-> My models are distinguished in particular by their wooden wheels, designed according to the **ancestral know-how of wheelwrights**, a *unique signature that combines elegance and authenticity*.
-> **Each trolley can be customised**: choice of wood species, dimensions, integrated features depending on use (coffee, aperitif, cheese, magazines, etc.) and type of wheel; ***from traditional cart wheels to contemporary designs***.
+A bespoke design? Tell me what you want.
+
+Translated with DeepL.com (free version)
 
 *Price: starting at €2,000 including tax*.
 
-**[DO YOU HAVE A CUSTOM SIDE TABLE PROJECT?](https://f1fd647b.sibforms.com/serve/MUIFAFzpj2nLgWJuoyjsLpG4pv15wCHqoF8-GE3VlAdmPwG_xKj-AzIvHo-rmuJifPm_z8bqlaLvScd8vBSdmTLCjj8hNItw50-PGIVIutF7XVOzSpdxZ-Bvdm9AM7aQa05kvz91uG22vZYrbDPR7OmmMpIDk1AOzjwG7dArs1iadDr6ge79KsUsXmW9eJeA24hLuKrfaz2j4s9a)**
+**[DO YOU WANT WE DISCUSS ABOUT IT?](https://f1fd647b.sibforms.com/serve/MUIFAFzpj2nLgWJuoyjsLpG4pv15wCHqoF8-GE3VlAdmPwG_xKj-AzIvHo-rmuJifPm_z8bqlaLvScd8vBSdmTLCjj8hNItw50-PGIVIutF7XVOzSpdxZ-Bvdm9AM7aQa05kvz91uG22vZYrbDPR7OmmMpIDk1AOzjwG7dArs1iadDr6ge79KsUsXmW9eJeA24hLuKrfaz2j4s9a)**
