@@ -1,5 +1,5 @@
 ---
-title: UNI. LE MONO D'ANTAN
+title: UNI.
 weight: 1
 essence: robinier,frene, noyer
 description: |-
@@ -7,7 +7,7 @@ description: |-
 ---
 
 Un retour aux sources. Un voyage dans l’histoire des **charrons**.
-12 rais, 6 jantes, 1 moyeu. 1 fourche, 1 selle et 1 paire de pédales. Le MONO D'ANTAN pèse 12,6 kg pour une roue de 24 pouces et 1 monocycliste d’1m83.
+12 rais, 6 jantes, 1 moyeu. 1 fourche, 1 selle et 1 paire de pédales. Le MONOCYCLE D'ANTAN UNI pèse 12,6 kg pour une roue de 24 pouces et 1 monocycliste d’1m83.
 L’entraînement se fait par un système de clavette ou d’axe carré dans le moyeu (au choix) ; il n’ y a pas de roulement.
 Une création d’ébénisterie unique qui roule. 
 
