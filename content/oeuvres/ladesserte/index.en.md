@@ -1,5 +1,5 @@
 ---
-title: JOBI. THE MOBILE OFFICE
+title: JOBI.
 weight: 3
 essence: robinier,frene,noyer,orme
 description: |-
