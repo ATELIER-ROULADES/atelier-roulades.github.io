@@ -1,5 +1,5 @@
 ---
-title: UNI. THE WOODEN UNICYCLE
+title: UNI.
 weight: 1
 essence: robinier,frene,noyer
 description: |-
@@ -7,7 +7,7 @@ description: |-
 ---
 
 A return to basics. A journey through the history of **wheelwrights**.
-12 spokes, 6 rims, 1 hub. 1 fork, 1 saddle and 1 pair of pedals. The MONO D'ANTAN weighs 12.6 kg for a 24-inch wheel and a 1.83 m tall unicyclist.
+12 spokes, 6 rims, 1 hub. 1 fork, 1 saddle and 1 pair of pedals. The WOODEN UNICYCLE UNI weighs 12.6 kg for a 24-inch wheel and a 1.83 m tall unicyclist.
 The drive is provided by a key or square axle system in the hub (your choice); there are no bearings.
 A unique piece of cabinetry that rolls. 
 
