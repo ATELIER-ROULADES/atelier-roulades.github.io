@@ -25,6 +25,13 @@ description: >
   </p>
   </div>
 
+   <div align="center">
+  <p>
+  [VOIR L'OFFRE MOBILIER](https://atelier-roulades.github.io/oeuvres/voisins/assets/ATELIER%20ROULADES_Offre%20mobilier_cp_2.pdf)
+  </p>
+  </div>
+  
+
 seo_title: "Atelier Roulades"
 
 outputs:
