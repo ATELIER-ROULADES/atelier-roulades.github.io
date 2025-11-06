@@ -24,7 +24,7 @@ description: >
   </p>
   </div>
 
-      <div align="center">
+  <div align="center">
   <p>
   <a href="https://atelier-roulades.github.io/oeuvres/voisins/assets/ATELIER%20ROULADES_Offre%20mobilier_cp.pdf">DISCOVER OUR FUNRITURE RANGE</a>
   </p>
