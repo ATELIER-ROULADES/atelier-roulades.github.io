@@ -26,7 +26,9 @@ description: >
   </div>
 
     <div align="center">
-  **[DECOUVRIR L'OFFRE MOBILIER](assets/ATELIER ROULADES_Offre mobilier_cp.pdf)**
+  <p>
+  <a href="https://atelier-roulades.github.io/oeuvres/voisins/assets/ATELIER%20ROULADES_Offre%20mobilier_cp.pdf">DECOUVRIR L'OFFRE MOBILIER</a>
+  </p>
   </div>
   
 
