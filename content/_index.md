@@ -3,7 +3,8 @@ title: Ebénisterie, Menuiserie d'Art en bois massif
 description: >
   ## Menuisier ébéniste créateur
 
-    Ingénieur paysagiste de formation, passionné par le travail de la matière, tout autant que par les paysages et les gens qui les font vivre, je décide en 2023 d’engager une reconversion professionnelle pour devenir menuisier-ébéniste créateur. L'**ATELIER ROULADES** voit le jour.
+    Ingénieur paysagiste de formation, passionné par le travail de la matière, tout autant que par les paysages et les gens qui les font vivre, je décide en 2023 d’engager une reconversion professionnelle pour devenir menuisier-ébéniste créateur. L'**ATELIER ROULADES** voit le jour. 
+    Aujourd'hui, je façonne des ***mobiliers d'art qui roulent*** en bois massif. **Bancs, tables, bureaux, dessertes ou encore monocycle**, chaque création vient raconter une histoire et valorise le savoir-faire des charrons. Ceux qui fabriquaient les roues. Bonne découverte :)
 
   <div align="center">
   <p><strong>vidéo</strong></p>
