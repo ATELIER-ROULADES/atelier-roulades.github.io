@@ -15,6 +15,6 @@ Avec ou sans tiroir(s).
 
 Une adaptation sur-mesure ? Dites-moi ce que vous souhaitez.
 
-*Prix : à partir de 2 000 euros TTC*.
+*Prix : à partir de 2 880 euros TTC*.
 
 **[SOUHAITEZ-VOUS QU'ON S'APPELLE ?](https://f1fd647b.sibforms.com/serve/MUIFAFzpj2nLgWJuoyjsLpG4pv15wCHqoF8-GE3VlAdmPwG_xKj-AzIvHo-rmuJifPm_z8bqlaLvScd8vBSdmTLCjj8hNItw50-PGIVIutF7XVOzSpdxZ-Bvdm9AM7aQa05kvz91uG22vZYrbDPR7OmmMpIDk1AOzjwG7dArs1iadDr6ge79KsUsXmW9eJeA24hLuKrfaz2j4s9a)**
