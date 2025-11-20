@@ -1,5 +1,5 @@
 ---
-title: MEMORIES
+title: PALIMPSEST
 weight: 8
 essence: chene, chataignier, frene, noyer
 description: |-
